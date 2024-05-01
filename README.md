@@ -4,4 +4,12 @@ Dizi ve Filmler Sitesi en popüler ve güncel dizi ve filmleri izleme imkanı su
 
 # Kullanılan Teknolojiler
 
-html,css,js
+HTML, CSS , JS
+
+# Gif
+
+
+
+https://github.com/aylinsarioglu/film-sitesi/assets/85454483/1d15fd37-91d0-4bcf-b743-93525993e900
+
+
